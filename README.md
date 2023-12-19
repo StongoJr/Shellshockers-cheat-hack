@@ -1,4 +1,5 @@
 # Shellshockers-cheat-hack
+CHEATS BROKEN I NEED HELP
 aim bot esp lines and a butterfly knife theme 
 You need to install tampermonkey to use
 https://www.tampermonkey.net/
